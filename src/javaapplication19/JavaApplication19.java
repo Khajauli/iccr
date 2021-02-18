@@ -22,6 +22,7 @@ public class JavaApplication19 {
         System.out.println("Jajajaja que loco");
         System.out.println("Wow que genial si funciona");
          System.out.println("antes de cada PUSH le debo dar COMMIT o no");
+         System.out.println("Mmmm no lo se, no me quedó muy claro");
     }
     
 }
