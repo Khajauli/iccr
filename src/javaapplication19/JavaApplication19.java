@@ -18,6 +18,8 @@ public class JavaApplication19 {
         // TODO code application logic here
         System.out.println("Buenos Días");
         System.out.println("Ivanna01");
+        System.out.println("Si me llegó!!");
+        System.out.println("Jajajaja que loco");
     }
     
 }
